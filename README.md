@@ -34,35 +34,15 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DSABARISH-D&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSABARISH-D&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=DSABARISH-D&theme=tokyonight"/>
-
-</p>
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DSABARISH-D&theme=tokyonight&column=7"/>
-
-</p>
 
 ---
 
@@ -77,9 +57,7 @@
 ---
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DSABARISH-D/DSABARISH-D/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
 
 
 
