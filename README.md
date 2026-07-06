@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=DSABARISH-D&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
----
-
 # 👨‍💻 About Me
 
 🎓 B.Tech Artificial Intelligence & Data Science
@@ -22,29 +20,11 @@
 
 🎯 Goal: Software Engineer
 
----
-
 # 🛠 Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,git,github,vscode,html,css,js,react,nodejs,figma,linux"/>
-
-</p>
-
----
-
-
-</p>
-
----
-
-
----
-
-
-
----
 
 # 📈 Contribution Graph
 
@@ -53,17 +33,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DSABARISH-D&theme=tokyo-night"/>
 
 </p>
-
----
-
-
-
-
-
-
-
----
-
 # 💻 Coding Profiles
 
 <p align="center">
@@ -82,8 +51,6 @@
 
 </p>
 
----
-
 # 🚀 Featured Projects
 
 | Project | Description |
@@ -92,8 +59,6 @@
 | 📊 Algorithm Visualizer | DSA Visualization |
 | ⚖️ KYC Legal Assistant | AI Legal Assistant |
 | 🌐 Portfolio Website | Personal Portfolio |
-
----
 
 # 🌐 Connect with Me
 
@@ -112,8 +77,6 @@
 </a>
 
 </p>
-
----
 
 <h3 align="center">
 
