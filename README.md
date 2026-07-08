@@ -10,7 +10,7 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Artificial Intelligence & Data Science
+🎓 B.Tech Artificial Intelligence & Machine Learning 
 
 🏫 Bannari Amman Institute of Technology
 
