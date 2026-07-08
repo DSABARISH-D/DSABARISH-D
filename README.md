@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabarish D</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Java+Developer;DSA+Enthusiast;React+Native+Developer;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Student;Java+Developer;DSA+Enthusiast;React+Native+Developer;Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
